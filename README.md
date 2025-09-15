@@ -93,6 +93,4 @@ If I had more time, I would like to extend the project with:
    ```bash
    flask run
 
-## Video
-Here is a demonstration of my project:
-https://youtu.be/o-zmGakiivQ
+
