@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+
+h2, h3 {
+    color: #333;
+}
+
+
+table {
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+table th {
+    background-color: #343a40;
+    color: white;
+}
+
+table td {
+    vertical-align: middle;
+}
+
+
+form input, form button {
+    height: 45px;
+}
+
+.btn-primary {
+    background-color: #198754;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #145c32;
+}
